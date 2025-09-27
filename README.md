@@ -293,11 +293,7 @@ Large or proprietary files are either ignored or documented so they can be resto
 - **Team:** Init_to_Winit (Sayli, Ratan, Sri Bharath, Shriyans)
 - **Hackathon:** Tata Technologies Init_to_Winit 2024
 
-### 📚 **Technical References**
-- OpenAI GPT API Documentation
-- Streamlit Framework Documentation
-- GloVe Embeddings Research Paper
-- Collaborative Filtering Algorithms (SVD)
-- Web Scraping Best Practices (Selenium, BeautifulSoup)
+## Contributors
+SayliJain, codekid211, shriyans
 
 Feel free to open issues or suggestions as you adapt the prototypes for your specific use cases.
