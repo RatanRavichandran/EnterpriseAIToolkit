@@ -1,0 +1,12 @@
+user_id: a5cb5466-a29f-4daa-9ed6-9713f399dbe4
+age: 48
+gender: Female
+marital_status: Divorced
+income_level: High
+education: High School
+occupation: Dealer
+residential_status: Living with parents
+dependents: 4
+average_spending: 1391.67
+preferred_categories: Toys, Beauty, Books
+browsing_history: Electronics, Clothing, Beauty, Groceries, Books

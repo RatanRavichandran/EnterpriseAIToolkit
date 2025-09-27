@@ -1,0 +1,6 @@
+ProductID,ProductName,RequiredStock,CurrentStock,ReorderQuantity,SupplierID
+1001,Organic Apples,200,150,100,S001
+1002,Whole Wheat Bread,100,50,80,S002
+1003,Almond Milk,120,80,50,S003
+1004,Chicken Breasts,250,200,100,S004
+1005,Fresh Tomatoes,120,70,70,S001

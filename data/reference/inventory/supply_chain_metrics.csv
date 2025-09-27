@@ -1,0 +1,6 @@
+MetricID,MetricName,Value
+M001,AverageOrderCycleTime,12 days
+M002,OrderFulfillmentRate,90%
+M003,InventoryCarryingCost,$5000
+M004,StockoutFrequency,3 times/month
+M005,SupplierReliability,88%

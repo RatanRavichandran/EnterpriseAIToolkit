@@ -1,0 +1,4 @@
+pandas
+sentence-transformers
+psycopg2
+openai
